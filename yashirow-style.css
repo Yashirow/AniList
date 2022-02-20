@@ -11,6 +11,7 @@
 
 /*  --------------------------------------------| M A I N-C O D E |----------------------------------------------- */
 
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css");
 /* Background image */
 body {
     background: rgb(var(--color-background)) url("https://i.imgur.com/2c7BZ8i.png") center/100% fixed;
