@@ -1,10 +1,12 @@
 /* Anilist.co Custom CSS
 ## - Name:        yashirow-style.css
 ## - Author:      @Yashirow
-## - Last Update: 20/02/2022
+## - Last Update: 19/03/2022
 
 
 ::Changelog::
+19/03/2022:
+- updated some code
 20/02/2022:
 - initial release
 */
@@ -194,7 +196,7 @@ display: none ;
 }
 
 /* Profile activity (status/messages/list) Makes border corners rounded */
-.wrap[data-v-77aecf0c], .reply[data-v-2820a6bb] {
+.wrap[data-v-b584a8de], .reply[data-v-2820a6bb] {
     border-style: solid;
     border-width: thin;
     border-radius: 20px;
@@ -203,7 +205,7 @@ display: none ;
     overflow: visible;
 
 }
-.wrap[data-v-77aecf0c], .reply[data-v-732ef224] {
+.wrap[data-v-b584a8de], .reply[data-v-732ef224] {
     border-style: solid;
     border-width: thin;
     border-radius: 20px;
@@ -237,7 +239,7 @@ display: none ;
     border-radius: 20px;
 }
 /* Anime/manga displaying rounded corners, part 2 */
-.cover[data-v-77aecf0c] {
+.cover[data-v-b584a8de] {
     border-top-left-radius: 20px;
     border-bottom-left-radius: 20px;
 }
